@@ -1,0 +1,15 @@
+E:\Tmp\Resources\UseStaticMember\bin\Debug\UseStaticMember.exe
+E:\Tmp\Resources\UseStaticMember\bin\Debug\UseStaticMember.pdb
+E:\Tmp\Resources\UseStaticMember\obj\Debug\ResolveAssemblyReference.cache
+E:\Tmp\Resources\UseStaticMember\obj\Debug\Window1.g.cs
+E:\Tmp\Resources\UseStaticMember\obj\Debug\App.g.cs
+E:\Tmp\Resources\UseStaticMember\obj\Debug\UseStaticMember_MarkupCompile.cache
+E:\Tmp\Resources\UseStaticMember\obj\Debug\UseStaticMember_MarkupCompile.lref
+E:\Tmp\Resources\UseStaticMember\obj\Debug\Window1.baml
+E:\Tmp\Resources\UseStaticMember\obj\Debug\UseStaticMember.g.resources
+E:\Tmp\Resources\UseStaticMember\obj\Debug\UseStaticMember.Properties.Resources.resources
+E:\Tmp\Resources\UseStaticMember\obj\Debug\UseStaticMember.csproj.GenerateResource.Cache
+E:\Tmp\Resources\UseStaticMember\obj\Debug\UseStaticMember.exe
+E:\Tmp\Resources\UseStaticMember\obj\Debug\UseStaticMember.pdb
+C:\Users\Vlad\Desktop\19\Resources\UseStaticMember\obj\Debug\UseStaticMember.exe
+C:\Users\Vlad\Desktop\19\Resources\UseStaticMember\obj\Debug\UseStaticMember.pdb
