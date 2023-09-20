@@ -1,0 +1,19 @@
+E:\Tmp\Resources\UseLibraryResource\obj\Debug\ResolveAssemblyReference.cache
+E:\Tmp\Resources\UseLibraryResource\obj\Debug\App.g.cs
+E:\Tmp\Resources\UseLibraryResource\obj\Debug\UseLibraryResource_MarkupCompile.cache
+E:\Tmp\Resources\UseLibraryResource\bin\Debug\UseLibraryResource.exe
+E:\Tmp\Resources\UseLibraryResource\bin\Debug\UseLibraryResource.pdb
+E:\Tmp\Resources\UseLibraryResource\bin\Debug\LibraryResource.dll
+E:\Tmp\Resources\UseLibraryResource\bin\Debug\LibraryResource.pdb
+E:\Tmp\Resources\UseLibraryResource\obj\Debug\Window1.baml
+E:\Tmp\Resources\UseLibraryResource\obj\Debug\Window1.g.cs
+E:\Tmp\Resources\UseLibraryResource\obj\Debug\UseLibraryResource.g.resources
+E:\Tmp\Resources\UseLibraryResource\obj\Debug\UseLibraryResource.Properties.Resources.resources
+E:\Tmp\Resources\UseLibraryResource\obj\Debug\UseLibraryResource.csproj.GenerateResource.Cache
+E:\Tmp\Resources\UseLibraryResource\obj\Debug\UseLibraryResource.exe
+E:\Tmp\Resources\UseLibraryResource\obj\Debug\UseLibraryResource.pdb
+E:\Tmp\Resources\UseLibraryResource\bin\Debug\Images\10440.jpg
+E:\Chair\Lab\Lab70 - Resources = Wpf & C# (VS.NET 2008)\Resources\UseLibraryResource\obj\Debug\UseLibraryResource.exe
+E:\Chair\Lab\Lab70 - Resources = Wpf & C# (VS.NET 2008)\Resources\UseLibraryResource\obj\Debug\UseLibraryResource.pdb
+C:\Users\Vlad\Desktop\19\Resources\UseLibraryResource\obj\Debug\UseLibraryResource.exe
+C:\Users\Vlad\Desktop\19\Resources\UseLibraryResource\obj\Debug\UseLibraryResource.pdb
