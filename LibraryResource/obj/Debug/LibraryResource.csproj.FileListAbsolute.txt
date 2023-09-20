@@ -1,0 +1,14 @@
+E:\Tmp\Resources\LibraryResource\bin\Debug\LibraryResource.dll
+E:\Tmp\Resources\LibraryResource\bin\Debug\LibraryResource.pdb
+E:\Tmp\Resources\LibraryResource\obj\Debug\ResolveAssemblyReference.cache
+E:\Tmp\Resources\LibraryResource\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\Tmp\Resources\LibraryResource\obj\Debug\LibraryResource_MarkupCompile.cache
+E:\Tmp\Resources\LibraryResource\obj\Debug\LibraryResource_MarkupCompile.lref
+E:\Tmp\Resources\LibraryResource\obj\Debug\Themes\Generic.baml
+E:\Tmp\Resources\LibraryResource\obj\Debug\LibraryResource.g.resources
+E:\Tmp\Resources\LibraryResource\obj\Debug\LibraryResource.Properties.Resources.resources
+E:\Tmp\Resources\LibraryResource\obj\Debug\LibraryResource.csproj.GenerateResource.Cache
+E:\Tmp\Resources\LibraryResource\obj\Debug\LibraryResource.dll
+E:\Tmp\Resources\LibraryResource\obj\Debug\LibraryResource.pdb
+C:\Users\Vlad\Desktop\19\Resources\LibraryResource\obj\Debug\LibraryResource.dll
+C:\Users\Vlad\Desktop\19\Resources\LibraryResource\obj\Debug\LibraryResource.pdb
